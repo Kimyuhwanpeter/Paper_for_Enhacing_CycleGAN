@@ -53,4 +53,4 @@
 * Proposed 3D-one hot encoding using gray scale image
 <br/>
 
-![image-20210114111948668]()
+![image-20210114111948668](https://github.com/Kimyuhwanpeter/Paper_for_Enhacing_CycleGAN/blob/main/3D_one_hot.JPG)
