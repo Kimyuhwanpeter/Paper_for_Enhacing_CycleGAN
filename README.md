@@ -15,6 +15,6 @@
 
   * text: image name list
 
-    * | A_image.txt                                                                |
+    * | A_image.txt                                      |                         |
       | ------------------------------------------------ | ----------------------- |
       | image1.jpg<br/>image2.jpg<br/>image3.jpg<br/>... |16<br/>20<br/>18<br/>... |
