@@ -1,7 +1,7 @@
 # Paper_for_Enhaced_CycleGAN with untrained age
 <br/>
 
-* Paper: ["Enhanced Cycle Generative Adversarial Network for Generating Face Images of Untrained Races and Ages for Age Estimation"](https://ieeexplore.ieee.org/document/9311721)
+* ["Enhanced Cycle Generative Adversarial Network for Generating Face Images of Untrained Races and Ages for Age Estimation"](https://ieeexplore.ieee.org/document/9311721)
 <br/>
 
 ## Implementation
