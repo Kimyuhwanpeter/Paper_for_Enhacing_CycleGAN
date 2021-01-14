@@ -27,3 +27,8 @@
       | image5.jpg 16<br/>image10.jpg 20<br/>image3.jpg 25<br/>... |
       
   * Precautions - **The age difference between A and B images must be constant.**
+  
+* "A_image_path": A image directory (A real data)
+* "B_image_path": B image directory (B real data)
+* "Number_A_image": Number of A images (**The amount of the images must same as B**)
+* "Number_B_image": Number of B images (**The amount of the images must same as A**)
