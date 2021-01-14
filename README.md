@@ -46,4 +46,11 @@
 ## Model
 * Proposed model
 <br/>
+
 ![image-20210114111521140](https://github.com/Kimyuhwanpeter/Paper_for_Enhacing_CycleGAN/blob/main/Proposed_model.JPG)
+<br/>
+
+* Proposed 3D-one hot encoding using gray scale image
+<br/>
+
+![image-20210114111948668]()
