@@ -42,3 +42,7 @@
 * "B_n_test": Number of B images (**The amount of the images must same as A**)
 * "A_test_output": Path for Generating image (A to B)
 * "B_test_output": Path for Generating image (B to A)
+
+## Model
+* Proposed model
+![image-20210114111521140]()
