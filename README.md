@@ -28,7 +28,17 @@
       
   * Precautions - **The age difference between A and B images must be constant.**
   
-* "A_image_path": A image directory (A real data)
-* "B_image_path": B image directory (B real data)
+* "A_image_path": A image directory for training (A real data)
+* "B_image_path": B image directory for training (B real data)
 * "Number_A_image": Number of A images (**The amount of the images must same as B**)
 * "Number_B_image": Number of B images (**The amount of the images must same as A**)
+<br/>
+
+## Test(FLAGS)
+* "train": False (if not "test", False)
+* "A_test_img": A image directory for testing (A real data)
+* "B_test_img": B image directory for testing (B real data)
+* "A_n_test": Number of A images (**The amount of the images must same as B**)
+* "B_n_test": Number of B images (**The amount of the images must same as A**)
+* "A_test_output": Path for Generating image (A to B)
+* "B_test_output": Path for Generating image (B to A)
