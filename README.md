@@ -11,10 +11,19 @@
 <br/>
 
 ## Train(FLAGS)
-* "A_txt_path": A training text in "A to B" direction
+* "A_image_txt": Read A information using the text files
 
-  * text: image name list
+  * text: image and age label list
 
     * | A_image.txt                                               |
       | --------------------------------------------------------- | 
       | image1.jpg 16<br/>image2.jpg 20<br/>image3.jpg 25<br/>... |
+* "B_image_txt": Read B information using the text files
+
+  * text: IMage and label list (same form as "A_image_txt")
+  
+    * | B_image.txt                                                |
+      | ---------------------------------------------------------- | 
+      | image5.jpg 16<br/>image10.jpg 20<br/>image3.jpg 25<br/>... |
+      
+  * Precautions - **The age difference between A and B images must be constant.**
