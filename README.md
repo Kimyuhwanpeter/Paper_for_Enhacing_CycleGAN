@@ -59,4 +59,4 @@
 ## Experimental result
 <br/>
 
-![image-20210114112258252]()
+![image-20210114112258252](https://github.com/Kimyuhwanpeter/Paper_for_Enhacing_CycleGAN/blob/main/Generated_test_images.JPG)
